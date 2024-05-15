@@ -1,5 +1,5 @@
 import random
-#import sys
+import sys
 import os
 import time
 
@@ -63,7 +63,10 @@ while True:
 
 #print("    "+"-"*(length*width-1)+"   ")
 #print([i for i in range(length)])
-#"pattern printing questions like: "--  --  --"
+# todo
+# pattern printing decorations like: "--  --  --"
+# animations
+# data fitting to set resoution
 #data formatting to fit in graph
 #adding custom x labels
 # auto border around passed print statement wiht labels
